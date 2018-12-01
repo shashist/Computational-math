@@ -5,5 +5,6 @@
 3. [Polynomial Least squares (Chebyshev, Bernstein and 4 types of standart polynomials)](./Least_squares.ipynb)
 4. [Nonlinear systems solving (Fixed-point iteration and Newton's method)](./Nonlinear_systems.ipynb)
 5. Interpolation (Newton's polynomial and Splines)
+6. [Numerical integration (Simpson's rule, Runge's rule)](./Numerical_integration.ipynb)
 
 **NB**: I use Russian in notebooks.
