@@ -9,11 +9,11 @@
 
 <div align="center">
  <div style="float:left; padding-right:10px">
-  <img src="img/runge_uniform_meme.gif" height="450" width="450">
+  <img src="img/runge_uniform_meme.gif" height="400" width="400">
  </div>
   
  <div style="float:left">
-  <img src="img/runge_chebyshev_meme.gif" height="450" width="450">
+  <img src="img/runge_chebyshev_meme.gif" height="400" width="400">
  </div>
 </div>
 
