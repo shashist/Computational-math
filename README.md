@@ -7,14 +7,10 @@
 5. [Interpolation (Lagrange's polynomial and Splines)](./Interpolation.ipynb)
 6. [Numerical integration (Simpson's rule, Runge's rule)](./Numerical_integration.ipynb)
 
-<div align="center">
- <div style="float:left; padding-right:10px">
-  <img src="img/runge_uniform_meme.gif" height="400" width="400">
- </div>
-  
- <div style="float:left">
-  <img src="img/runge_chebyshev_meme.gif" height="400" width="400">
- </div>
-</div>
+<p align="center">
+  <img src="img/runge_nodes_meme.gif">
+</p>
+
+
 
 **NB**: I use Russian in notebooks.
